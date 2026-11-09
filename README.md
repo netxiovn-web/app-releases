@@ -8,7 +8,7 @@ Kho lưu trữ và phân phối chính thức các bản phát hành ứng dụn
 
 | Tên Ứng Dụng | Phiên bản mới nhất | File Cấu Hình | Tải Bản Cài Đặt (.zip) |
 | :--- | :---: | :---: | :--- |
-| **Facebook Fanpage BM Manager** | `v1.0.7` | [`fb_version.json`](./fb_version.json) | [Tải bản v1.0.0](https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.0.7/FB_Fanpage_Manager_v1.0.7.zip) |
+| **Facebook Fanpage BM Manager** | `v1.0.8` | [`fb_version.json`](./fb_version.json) | [Tải bản v1.0.0](https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.0.8/FB_Fanpage_Manager_v1.0.8.zip) |
 
 ---
 
