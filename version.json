@@ -1,0 +1,8 @@
+{
+  "app_name": "Facebook Fanpage BM Manager",
+  "version": "1.0.0",
+  "release_date": "2026-11-09",
+  "changelog": "- Phiên bản chính thức đóng gói .exe\n- Tích hợp tính năng tự động nâng cấp ứng dụng (Auto-Updater)\n- Hỗ trợ quét và lọc Follower nâng cao\n- Hỗ trợ xóa Avatar và xóa All Video trên Fanpage",
+  "download_url": "https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.0.0/update.zip",
+  "mandatory": false
+}
