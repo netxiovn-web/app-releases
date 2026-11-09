@@ -1,19 +1,15 @@
-# 📦 Netxio App Releases Hub
+# 📦 App Releases Hub
 
-Kho lưu trữ phân phối và cập nhật tự động (Auto-Updater Distribution Hub) cho các phần mềm phát triển bởi **Netxio Web**.
-
----
-
-## 🎯 Danh sách ứng dụng hỗ trợ cập nhật
-
-| Tên Ứng Dụng | File Cấu Hình Version | Tag Release |
-| :--- | :--- | :--- |
-| **Facebook Fanpage BM Manager** | [`fb_version.json`](./fb_version.json) | `fb-v*` |
+Kho lưu trữ và phân phối chính thức các bản phát hành ứng dụng của **Netxio Web**.
 
 ---
 
-## ⚙️ Cơ chế hoạt động
+## 📱 Danh sách ứng dụng
 
-1. Khi mở ứng dụng trên máy khách, app sẽ tự động gửi yêu cầu đọc file cấu hình tương ứng (ví dụ `fb_version.json`) từ nhánh `main`.
-2. Nếu phát hiện số phiên bản mới hơn phiên bản hiện tại, app sẽ hiển thị hộp thoại thông báo cập nhật kèm danh sách các tính năng mới (`changelog`).
-3. Khi người dùng bấm "Cập nhật ngay", app sẽ tự động tải file `update.zip` từ mục **Releases** của repo này, sao lưu an toàn `config.json` và giải nén cài đặt bản mới nhất.
+| Tên Ứng Dụng | Phiên bản mới nhất | File Cấu Hình | Tải Bản Cài Đặt (.zip) |
+| :--- | :---: | :---: | :--- |
+| **Facebook Fanpage BM Manager** | `v1.0.0` | [`fb_version.json`](./fb_version.json) | [Tải bản v1.0.0](https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.0.0/FB_Fanpage_Manager_v1.0.0.zip) |
+
+---
+
+> *Các ứng dụng mới sẽ tiếp tục được cập nhật vào danh sách trên kèm file cấu hình và link tải trực tiếp.*
