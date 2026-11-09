@@ -1,8 +1,8 @@
 {
   "app_name": "Facebook Fanpage BM Manager",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "release_date": "2026-11-09",
-  "changelog": "- Thử nghiệm tính năng tự động nâng cấp 1-click từ v1.0.4 lên v1.0.5\n- Bộ nâng cấp chạy ngầm hoàn toàn bằng PowerShell ẩn",
-  "download_url": "https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.0.5/update.zip",
+  "changelog": "- Sửa triệt để lỗi đường dẫn chứa dấu cách khi chạy bộ cài đè\n- Thay thế timeout bằng ping an toàn cho tiến trình chạy ngầm\n- Tự động giải phóng phiên bản quyền trên server trước khi restart",
+  "download_url": "https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.0.6/update.zip",
   "mandatory": false
 }
