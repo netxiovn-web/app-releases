@@ -1,8 +1,8 @@
 {
   "app_name": "Facebook Fanpage BM Manager",
-  "version": "1.0.0",
-  "release_date": "2026-11-09",
-  "changelog": "Bản phát hành chính thức v1.0.0 Facebook Fanpage BM Manager - Tích hợp hệ thống tự động cập nhật mượt mà 1-click.",
-  "download_url": "https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.0.0/update.zip",
+  "version": "1.1.0",
+  "release_date": "2026-11-11",
+  "changelog": "✨ CẬP NHẬT v1.1.0:\n\n• Nâng cấp Xóa toàn bộ Video: chạy ổn định hơn trên BM lớn, giảm lỗi gián đoạn giữa chừng.\n• Nâng cấp Đổi Avatar & Xóa Avatar: hoạt động mượt mà, bền bỉ và an toàn hơn.\n• Bổ sung tự lưu tiến trình & chạy tiếp: tự nhớ các Page còn lại khi tạm dừng để lần sau mở lên chạy tiếp.\n• Bổ sung cảnh báo thời gian chờ khi chạy lại: nhắc thời gian nên đợi nếu chạy lại các Page vừa bị giới hạn.\n\n👉 Bấm \"Tải & Nâng cấp ngay\" để cập nhật (không mất dữ liệu cấu hình cũ).",
+  "download_url": "https://github.com/netxiovn-web/app-releases/releases/download/fb-v1.1.0/update.zip",
   "mandatory": false
 }
