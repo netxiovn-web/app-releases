@@ -1,0 +1,8 @@
+{
+  "app_name": "Grok Video Bulk Studio",
+  "version": "1.0.0",
+  "release_date": "2026-11-13",
+  "changelog": "Phát hành bản v1.0.0: Tích hợp hệ thống tự động kiểm tra & nâng cấp phiên bản mới (Auto-Update) và nâng cấp module bảo vệ bản quyền chống văng app",
+  "download_url": "https://github.com/netxiovn-web/app-releases/releases/download/grok-v1.0.0/update.zip",
+  "mandatory": false
+}
